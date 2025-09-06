@@ -31,3 +31,6 @@ public class Problem_3495 {
         System.out.println("Result: " + ans);
     }
 }
+/*
+* Leetcode Problem 3495
+* */
