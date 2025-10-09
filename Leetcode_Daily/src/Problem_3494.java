@@ -56,3 +56,4 @@ public class Problem_3494 {
         System.out.println("Minimum total time: " + result);
     }
 }
+//Leetcode 3494
