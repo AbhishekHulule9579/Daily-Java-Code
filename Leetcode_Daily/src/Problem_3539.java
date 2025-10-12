@@ -62,4 +62,3 @@ public class Problem_3539 {
         System.out.println("Magical Sum result: " + result);
     }
 }
-//leetcode 3539
