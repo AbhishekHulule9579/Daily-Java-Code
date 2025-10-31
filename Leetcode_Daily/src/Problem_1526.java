@@ -26,6 +26,7 @@ public class Problem_1526 {
             target[i] = sc.nextInt();
         }
 
+
         Problem_1526 obj = new Problem_1526();
         int result = obj.minNumberOperations(target);
         System.out.println("Minimum number of operations: " + result);
